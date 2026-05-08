@@ -3,16 +3,15 @@
     margin: 0;
     padding: 0;
 }
-
 body {
     display: grid;
     place-content: center;
     font-family: 'Figtree';
     background-color: hsl(47, 88%, 63%) ;
 }
-
+   
 .card {
-    margin-top: 5rem;
+    margin-top: 15rem;
     max-width: 330px;
     display: flex;
     flex-direction: column;
